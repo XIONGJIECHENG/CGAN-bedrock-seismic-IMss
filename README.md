@@ -1,5 +1,5 @@
 # CGAN-bedrock-seismic-IMs
-In this project, Conditional GAN ( CGAN ) is used to predict the multi-dimensional variables of bedrock. The model uses random white noise as input and combines conditional parameters to predict the values of 24 target variables.
+In this project, Conditional GAN ( CGAN ) is used to predict the multi-dimensional variables of bedrock. The model uses random white noise as input and combines conditional parameters to predict the values of 24 target variables.The data can be downloaded from https://www.kaggle.com/datasets/tian121/kik-net-data.
 
 # The following packages are required:
 Python 3.12
